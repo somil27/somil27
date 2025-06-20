@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-- 🔭 I’m currently working on Building scalable web solutions using React.js, Node.js, and MongoDB.
+- 🔭 I’m currently working on Building scalable web solutions using React.js , Node.js , and MongoDB.
 
 - 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , Bootstrap , Tailwind CSS , MySQL , JavaScript , HTML , CSS , Firebase , Next.js , Angular.js , Redux , Postman , VS Code , TypeScript , Material UI , PostgreSQL**
 
@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [thesomilverse.online](thesomilverse.online)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, React.js**
+- 💬 Ask me about **HTML , CSS , JavaScript , Node.js , Express.js , React.js**
 
 - 📫 How to reach me **itzmesomil@gmail.com**
 
