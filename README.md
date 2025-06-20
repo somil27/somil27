@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-- 🔭 I’m currently working on [Building scalable web solutions using React.js, Node.js, and MongoDB](https://github.com/somil27/Crypto-Mart.git)
+- 🔭 I’m currently working on Building scalable web solutions using React.js, Node.js, and MongoDB.
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js, Bootstrap, Tailwind CSS, MySQL, JavaScript, HTML, CSS, Firebase, Next.js, Angular.js, Redux, Postman, VS Code, TypeScript, Material UI ,PostgreSQL**
+- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , Bootstrap , Tailwind CSS , MySQL , JavaScript , HTML , CSS , Firebase , Next.js , Angular.js , Redux , Postman , VS Code , TypeScript , Material UI , PostgreSQL**
 
 - 👯 I’m looking to collaborate on **real-time apps, UI/UX-focused platforms, or student tech initiatives**
 
