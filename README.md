@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somil Shankar Gupta</h1>
 <h3 align="center">Aspiring Full-Stack Developer and ECE Undergraduate passionate about building scalable web solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somil27&label=Profile%20views&color=0e75b6&style=flat" alt="somil27" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
