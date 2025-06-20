@@ -19,15 +19,15 @@
 
 - 🔭 I’m currently working on Building scalable web solutions using React.js , Node.js , and MongoDB.
 
-- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , Bootstrap , Tailwind CSS , MySQL , JavaScript , HTML , CSS , Firebase , Next.js , Angular.js , Redux , Postman , VS Code , TypeScript , Material UI , PostgreSQL**
+- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , Bootstrap , Tailwind CSS , MySQL , JavaScript , HTML , CSS , Firebase , Next.js , Angular.js , Redux , Postman , VS Code , TypeScript , Material UI , PostgreSQL.**
 
-- 👯 I’m looking to collaborate on **real-time apps, UI/UX-focused platforms, or student tech initiatives**
+- 👯 I’m looking to collaborate on **real-time apps, UI/UX-focused platforms, or student tech initiatives.**
 
-- 🤝 I’m looking for help with **Open to guidance on building scalable web apps, optimizing performance, and deploying to the cloud**
+- 🤝 I’m looking for help with **Open to guidance on building scalable web apps, optimizing performance, and deploying to the cloud.**
 
 - 👨‍💻 All of my projects are available at [thesomilverse.online](thesomilverse.online)
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Node.js , Express.js , React.js**
+- 💬 Ask me about **HTML , CSS , JavaScript , Node.js , Express.js , React.js.**
 
 - 📫 How to reach me **itzmesomil@gmail.com**
 
