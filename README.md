@@ -17,21 +17,65 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-- 🔭 I’m currently working on Building scalable web solutions using React.js , Node.js , and MongoDB.
+# 👋 Hi, I'm Somil Shankar Gupta
 
-- 🌱 I’m currently learning **MongoDB , Express.js , React.js , Node.js , Bootstrap , Tailwind CSS , MySQL , JavaScript , HTML , CSS , Firebase , Next.js , Angular.js , Redux , Postman , VS Code , TypeScript , Material UI , PostgreSQL.**
+🎓 I'm an Electronics and Communication Engineering undergraduate at Bhagwan Parshuram Institute of Technology (GGSIPU), Delhi. With a passion for full-stack development, I build scalable and user-focused web applications.
 
-- 👯 I’m looking to collaborate on **real-time apps, UI/UX-focused platforms, or student tech initiatives.**
+---
 
-- 🤝 I’m looking for help with **Open to guidance on building scalable web apps, optimizing performance, and deploying to the cloud.**
+## 🔭 Currently Working On
+Building scalable and feature-rich web solutions using **React.js**, **Node.js**, and **MongoDB**.
 
-- 👨‍💻 All of my projects are available at [thesomilverse.online](thesomilverse.online)
+---
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Node.js , Express.js , React.js.**
+## 🌱 Currently Learning
+Expanding my knowledge and proficiency in:
+- **Frontend**: React.js, Next.js, Angular.js, Redux, Bootstrap, Tailwind CSS, Material UI, TypeScript
+- **Backend**: Node.js, Express.js, Firebase, PostgreSQL, MySQL, MongoDB
+- **Tools & Platforms**: Postman, VS Code, GitHub
 
-- 📫 How to reach me **itzmesomil@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s6OUsz_m3jCJl0dErnteCBRzOfO8hcBz/view?usp=sharing](https://drive.google.com/file/d/1s6OUsz_m3jCJl0dErnteCBRzOfO8hcBz/view?usp=sharing)
+## 👯 Open to Collaborate On
+I'm eager to team up on:
+- Real-time applications
+- UI/UX-driven web platforms
+- College or student-led tech initiatives
+- Open-source contributions
+
+---
+
+## 🤝 Looking for Guidance In
+I'm open to mentorship and collaboration in:
+- Scalable backend architectures
+- Cloud deployment strategies
+- Performance optimization
+- System design and DevOps
+
+---
+
+## 💼 Portfolio & Projects
+🌐 Check out my work at: [thesomilverse.online](https://thesomilverse.online)
+
+📄 View my resume: [Resume Link](https://drive.google.com/file/d/1s6OUsz_m3jCJl0dErnteCBRzOfO8hcBz/view?usp=sharing)
+
+---
+
+## 💬 Ask Me About
+**HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **Express.js**
+
+---
+
+## 📫 How to Reach Me
+📧 Email: [itzmesomil@gmail.com](mailto:itzmesomil@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/Somil-Shankar-Gupta](https://www.linkedin.com/in/Somil-Shankar-Gupta)  
+🐙 GitHub: [@somil27](https://github.com/somil27)
+
+---
+
+## ⚡ Fun Fact
+I’m equally passionate about **hardware & networking**, and I’ve provided freelance tech support and custom PC solutions before diving deep into web development!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
