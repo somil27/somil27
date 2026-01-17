@@ -57,7 +57,7 @@ I'm open to mentorship and collaboration in:
 ## 💼 Portfolio & Projects
 🌐 Check out my work at: [thesomilverse.online](https://thesomilverse.online)
 
-📄 View my resume: [Resume Link](https://drive.google.com/file/d/1nQwBjELIPOy056tMiSN8DLSlNFgDbEzV/view?usp=sharing)
+📄 View my resume: [Resume Link](https://drive.google.com/file/d/1t97VgxjHarKA4GVAEW9xtQ-K1oa7GdNt/view?usp=sharing)
 
 ---
 
