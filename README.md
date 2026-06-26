@@ -4,21 +4,21 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Architect;Systems+%26+Platform+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;SDE+Intern+%40+Kogniti+Minds" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/M.Tech-AI%20%26%20Machine%20Learning-6D28D9?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/GGSIPU-CGPA%3A%208.54%2F10-6D28D9?style=flat-square&logo=academia&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📍-Bengaluru%2C%20India-4F46E5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍-New%20Delhi%2C%20India-4F46E5?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://thesomilverse.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-yourportfolio.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-thesomilverse.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/somil-shankar-gupta" target="_blank">
@@ -26,20 +26,20 @@
   </a>
   &nbsp;
   <a href="mailto:somilshankargupta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-you%40email.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-somilshankargupta%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/somil27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-yourusername-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-somil27-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=7C3AED&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=somil27&label=Profile+Views&color=7C3AED&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=6D28D9&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/followers/somil27?label=Followers&style=flat-square&color=6D28D9&labelColor=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=flat-square&color=4F46E5&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/stars/somil27?label=Stars&style=flat-square&color=4F46E5&labelColor=1a1a2e" />
 </p>
 
 ---
@@ -47,22 +47,22 @@
 ## ◈ About
 
 ```typescript
-const engineer = {
-  role        : "Software Engineer · AI/ML Engineer · Platform Architect",
-  focus       : ["Distributed Systems", "LLM Infrastructure", "Full Stack Engineering"],
-  background  : "2+ years designing and shipping production-grade software at scale",
-  principles  : ["Clean Architecture", "Observability-first", "API-contract driven"],
-  currentWork : "Building intelligent developer tooling powered by large language models",
+const somil = {
+  role        : "Full Stack Developer · SDE Intern · AI/ML Enthusiast",
+  focus       : ["MERN Stack", "Real-Time Systems", "REST API Design"],
+  background  : "1.5+ years building production-grade web apps and real-time systems",
+  principles  : ["Clean Code", "Performance-first", "System Design"],
+  currentWork : "Frontend Engineering Intern @ Kogniti Minds · Final Year @ BPIT Delhi",
 };
 ```
 
-Seasoned software engineer with deep expertise across the full product lifecycle — from architecture design to production deployment. Specialises in high-throughput distributed systems, AI/ML pipeline engineering, and cloud-native platform development. Proven track record of leading cross-functional engineering teams at growth-stage and enterprise organisations, consistently delivering systems that serve tens of millions of users with sub-100ms latency at p99.
+Pre-final year B.Tech student at Bhagwan Parshuram Institute of Technology, GGSIPU, specialising in Electronics & Communication Engineering with a strong focus on full-stack software development. Over the past 1.5+ years, I have independently built and shipped production-ready MERN applications, real-time systems, and ML-powered platforms — developing a solid engineering foundation across the entire development lifecycle.
 
-Passionate about combining rigorous software craftsmanship with the frontier of applied AI — building products that are not only technically excellent but genuinely impactful. Contributor to open source infrastructure tooling, author of technical writing on systems design, and a frequent participant in engineering communities.
+Experienced in database optimisation, REST API design, and scalable system architecture — with demonstrated results including 30% API latency reduction, 99.9% uptime in live systems, and support for 10,000+ concurrent users. AWS and GCP certified, national hackathon finalist, and an active competitive programmer with a focus on data structures and algorithms.
 
 <br/>
 
-**Open To** &nbsp;·&nbsp; Senior / Staff SWE roles &nbsp;·&nbsp; AI/ML Engineering &nbsp;·&nbsp; Platform / Infrastructure &nbsp;·&nbsp; Technical Lead positions &nbsp;·&nbsp; Remote-first or Bengaluru-based
+**Open To** &nbsp;·&nbsp; SDE Internships &nbsp;·&nbsp; Full Stack Roles &nbsp;·&nbsp; Open Source Contributions &nbsp;·&nbsp; Hackathon Collaborations &nbsp;·&nbsp; Remote or Delhi/NCR-based
 
 ---
 
@@ -70,22 +70,22 @@ Passionate about combining rigorous software craftsmanship with the frontier of 
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,rust,java,cpp,bash,scala&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,bash&theme=dark&perline=8" />
 </p>
 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,graphql,redux,vite,svelte,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,vuejs,html,css&theme=dark&perline=8" />
 </p>
 
 <p align="center"><strong>Backend &amp; Databases</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,postgres,redis,mongodb,kafka,elasticsearch&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,prisma,fastapi,redis&theme=dark&perline=8" />
 </p>
 
 <p align="center"><strong>Cloud, DevOps &amp; Tooling</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,prometheus,grafana&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,vercel,netlify,postman,git&theme=dark&perline=8" />
 </p>
 
 ---
@@ -96,14 +96,12 @@ Passionate about combining rigorous software craftsmanship with the frontier of 
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Large Language Models | ████████████ Expert | Fine-tuning, RLHF, RAG pipelines, prompt engineering, LLM routing |
-| Deep Learning | ███████████░ Advanced | PyTorch, JAX, custom training loops, distributed training on GPU clusters |
-| MLOps & Inference | ███████████░ Advanced | Triton, vLLM, ONNX, model quantisation, A/B testing, drift monitoring |
-| NLP | ████████████ Expert | Transformers, embedding models, semantic search, entity extraction |
-| Computer Vision | █████████░░░ Proficient | Object detection, segmentation, multimodal vision-language models |
-| Reinforcement Learning | ████████░░░░ Proficient | PPO, DQN, reward modelling, RLHF alignment workflows |
-| Data Engineering | ███████████░ Advanced | Spark, Airflow, dbt, feature stores, real-time streaming pipelines |
-| Vector Databases | ████████████ Expert | Pinecone, Weaviate, pgvector, FAISS, ANN index optimisation |
+| Machine Learning | █████████░░░ Proficient | Scikit-learn, ML pipelines, feature engineering, model evaluation |
+| NLP & LLMs | ████████░░░░ Intermediate | LLM integration, prompt design, text processing, entity extraction |
+| Deep Learning | ███████░░░░░ Intermediate | TensorFlow, neural network fundamentals, training workflows |
+| Data Analysis | █████████░░░ Proficient | NumPy, Pandas, data cleaning, exploratory analysis |
+| REST API for ML | ███████████░ Advanced | FastAPI, model serving, input validation, production deployment |
+| Computer Vision | ██████░░░░░░ Foundational | Image preprocessing, CNN basics, dataset preparation |
 
 </div>
 
@@ -112,97 +110,73 @@ Passionate about combining rigorous software craftsmanship with the frontier of 
 ## ◈ Featured Projects
 
 <details>
-<summary><strong>⬡ &nbsp; Hermes — Distributed LLM Inference Gateway</strong></summary>
+<summary><strong>⬡ &nbsp; StockTrading Platform — Real-Time Trading System</strong></summary>
 <br/>
 
-A production-grade, multi-tenant LLM inference gateway built for enterprise deployments. Hermes provides intelligent model routing, rate limiting, observability, and cost attribution across heterogeneous model backends — enabling teams to adopt and govern large language models with confidence.
+A real-time stock trading platform engineered to handle high-concurrency trade execution with low-latency WebSocket communication. Built with a focus on reliability, security, and performance under simulated production-grade load.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Go · Python · gRPC · Redis · PostgreSQL · Prometheus · Kubernetes |
-| **Scale** | 4M+ requests/day · 12 LLM providers · 200+ enterprise tenants |
-| **Performance** | P99 latency < 85ms · 99.97% uptime SLA · sub-10ms routing overhead |
-| **Security** | mTLS, JWT-scoped API keys, per-tenant audit logs, RBAC |
-| **Impact** | 60% reduction in LLM cost via intelligent routing and caching |
-| **Repository** | [github.com/yourusername/hermes](https://github.com/yourusername/hermes) |
+| **Stack** | React.js · Node.js · Express.js · MongoDB · WebSockets · JWT · REST APIs |
+| **Scale** | 50,000+ daily trades · 10,000+ concurrent transactions |
+| **Performance** | WebSocket latency < 100ms · order execution speed improved by 40% |
+| **Security** | JWT authentication · encrypted transaction processing · $100K+ simulated volume |
+| **Impact** | 99.9% uptime · optimised MongoDB queries for high-throughput workloads |
+| **Repository** | [github.com/somil27/stock-trading-platform](https://github.com/somil27) |
 
 </div>
 
-Architected a two-phase routing engine that combines semantic similarity (via embedding-based intent classification) with policy-driven model selection, enabling optimal cost-performance trade-offs per request type. The caching layer employs semantic deduplication using approximate nearest-neighbour search, achieving a 38% cache hit rate on production traffic. Observability is fully instrumented with OpenTelemetry, with dashboards surfacing per-model cost, token throughput, and error budgets in real time.
+Architected the real-time data layer using WebSocket connection pooling to achieve sub-100ms latency at scale. Implemented secure JWT-based auth with encrypted transaction flows and designed MongoDB schemas optimised for high-frequency read/write patterns, sustaining 99.9% uptime under simulated load testing.
 
 <br/>
 </details>
 
 <details>
-<summary><strong>⬡ &nbsp; Stratum — Real-Time Feature Store for ML Systems</strong></summary>
+<summary><strong>⬡ &nbsp; StreamSync — Real-Time Video Conferencing App</strong></summary>
 <br/>
 
-Stratum is a high-performance, dual-store feature platform designed to unify batch and real-time feature computation for production ML systems. It eliminates training-serving skew by providing a single consistent API for feature access across offline training, online serving, and stream processing contexts.
+A full-featured video conferencing application supporting multiple concurrent HD streams with screen sharing and real-time chat. Built using WebRTC and Socket.io for low-latency peer-to-peer communication with adaptive bandwidth management.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python · Rust · Apache Kafka · Apache Flink · Redis · Parquet · DynamoDB |
-| **Scale** | 500M+ feature writes/day · 2B+ point reads/day · 40TB feature materialisation |
-| **Performance** | P99 read latency < 4ms · Backfill throughput 1.2M rows/sec |
-| **Security** | Column-level access control, feature lineage tracking, PII tagging |
-| **Impact** | 3× faster model iteration cycles · eliminated training-serving skew across 8 teams |
-| **Repository** | [github.com/yourusername/stratum](https://github.com/yourusername/stratum) |
+| **Stack** | WebRTC · Socket.io · React.js · Vue.js · Node.js · Express.js |
+| **Scale** | 50+ concurrent sessions · 8 simultaneous HD video streams |
+| **Performance** | < 150ms latency · 2.5 Mbps/user via adaptive bitrate streaming |
+| **Security** | Peer-to-peer encrypted streams · session-scoped socket rooms |
+| **Impact** | 60% reduction in server load · modular component architecture |
+| **Repository** | [github.com/somil27/streamsync](https://github.com/somil27) |
 
 </div>
 
-Engineered the dual-store architecture — Redis for online low-latency serving and Parquet/S3 for offline batch materialisation — with a Flink-powered streaming layer that keeps both stores consistent within a 200ms SLA. The Rust-based compute engine handles aggregations and transformations with zero-copy processing for hot-path features, contributing to a 4× throughput improvement over the Python-based prototype. Platform adopted by 8 internal ML teams and open-sourced with active community contributions.
+Designed the adaptive bitrate streaming layer to dynamically adjust video quality based on available bandwidth, reducing server load by 60%. Built a modular Vue.js frontend with component-based architecture enabling clean integration of screen sharing, real-time chat, and multi-participant video grids across concurrent sessions.
 
 <br/>
 </details>
 
 <details>
-<summary><strong>⬡ &nbsp; Axiom — Autonomous Code Review Agent</strong></summary>
+<summary><strong>⬡ &nbsp; Intelligent Talent Recommendation Platform — ML-Powered Matching Engine</strong></summary>
 <br/>
 
-Axiom is an AI-powered code review agent that integrates directly into GitHub pull request workflows. It performs static analysis, security scanning, architecture conformance checking, and LLM-driven contextual review — providing senior-engineer-quality feedback at zero latency.
+A production-deployed ML platform that matches candidates to job roles using NLP-driven feature extraction, skill alignment scoring, and confidence-ranked recommendations — served via a robust FastAPI backend with Docker containerisation.
 
 <div align="center">
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | TypeScript · Python · Next.js · FastAPI · OpenAI API · GitHub Apps SDK · PostgreSQL |
-| **Scale** | 10,000+ PRs reviewed · 85 repositories · 600+ active engineering users |
-| **Performance** | Median review completion < 45s · 91% developer satisfaction score |
-| **Security** | No code stored server-side · ephemeral analysis sandboxes · SOC 2 aligned |
-| **Impact** | 40% reduction in review cycle time · 22% reduction in post-merge defect rate |
-| **Repository** | [github.com/yourusername/axiom](https://github.com/yourusername/axiom) |
+| **Stack** | Python · Machine Learning · NLP · FastAPI · Docker |
+| **Scale** | Production-deployed · modular pipeline architecture |
+| **Performance** | High-relevance role matches via skill alignment and confidence signals |
+| **Security** | Input validation, error handling, sanitised API contracts |
+| **Impact** | End-to-end ML pipeline from feature extraction to ranked recommendation delivery |
+| **Repository** | [Deployed Application](https://github.com/somil27) |
 
 </div>
 
-Designed a multi-agent architecture where specialised sub-agents handle discrete review concerns — security (SAST), style/idiom, architecture conformance, and semantic correctness — with a coordinator agent synthesising outputs into coherent, non-redundant review comments. Leveraged tree-sitter for language-agnostic AST parsing and a retrieval-augmented context system to ground suggestions in project-specific conventions and historical PR data.
-
-<br/>
-</details>
-
-<details>
-<summary><strong>⬡ &nbsp; Chronos — Distributed Job Scheduling Platform</strong></summary>
-<br/>
-
-Chronos is a fault-tolerant, horizontally scalable job scheduling and orchestration platform built for data-intensive workloads. It provides cron-style and event-driven job execution with exactly-once semantics, dependency graph resolution, and real-time observability.
-
-<div align="center">
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Go · PostgreSQL · Redis · gRPC · React · Docker · Kubernetes · Helm |
-| **Scale** | 500K+ jobs/day · multi-region active-active deployment across 3 AWS regions |
-| **Performance** | Scheduling throughput 50K jobs/sec · sub-second trigger latency at p99 |
-| **Security** | RBAC, encrypted job payloads at rest and in transit, full audit trail |
-| **Impact** | Replaced 3 legacy schedulers · reduced infra cost by 45% · zero downtime migration |
-| **Repository** | [github.com/yourusername/chronos](https://github.com/yourusername/chronos) |
-
-</div>
-
-Built a leader-election protocol using distributed locks with PostgreSQL advisory locks for coordinator failover, achieving recovery times under 2 seconds. The dependency resolution engine uses topological sort with cycle detection on a directed acyclic graph, supporting complex multi-step workflow orchestration. Provides a React-based operational dashboard with live job telemetry, failure replay, and SLA breach alerting.
+Engineered a feature extraction and ranking pipeline that scores and prioritises role matches based on candidate skill profiles and job requirement embeddings. Wrapped the model in production-grade FastAPI endpoints with full input validation, modular error handling, and Docker deployment — enabling reliable, low-latency recommendation serving.
 
 <br/>
 </details>
@@ -213,74 +187,47 @@ Built a leader-election protocol using distributed locks with PostgreSQL advisor
 
 <table>
 <tr>
-<td width="120" valign="top">
-<strong>2022 — Present</strong>
+<td width="140" valign="top">
+<strong>Aug 2025 — Oct 2025</strong>
 </td>
 <td valign="top">
 
-### Senior Software Engineer · Stealth AI Startup
-*Bengaluru, India (Remote-first)*
+### Frontend Engineering Intern · Kogniti Minds Private Limited
+*Gurugram, India*
 
-Leading the design and delivery of core platform infrastructure for a developer-facing AI product. Own the end-to-end technical roadmap for inference infrastructure, model serving, and the developer API layer.
+Worked on the production frontend codebase, building responsive, performance-optimised UI and integrating REST APIs across 12+ pages. Focused on rendering performance and API reliability in a live product environment.
 
-- Architected the multi-tenant LLM gateway serving 4M+ requests per day with 99.97% uptime across 12 model providers
-- Designed and implemented a semantic feature cache reducing LLM cost by 60% across production workloads
-- Built real-time observability stack (OpenTelemetry + Prometheus + Grafana) with automated SLA breach detection
-- Led a team of 6 engineers through 3 major platform migrations with zero customer-visible downtime
-- Drove adoption of gRPC-based internal service mesh, reducing inter-service P99 latency by 42%
+- Built responsive UI using HTML5, CSS3, and JavaScript achieving a 95+ Lighthouse performance score on both mobile and desktop
+- Integrated 8 REST API endpoints with comprehensive error handling and validation, reducing frontend API failures by 95%
+- Optimised the critical rendering path, reducing Time to Interactive (TTI) by 32% through lazy loading and code splitting
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="120" valign="top">
-<strong>2020 — 2022</strong>
+<td width="140" valign="top">
+<strong>Apr 2025 — Jul 2025</strong>
 </td>
 <td valign="top">
 
-### Software Engineer II · Mid-size Product Company
-*Bengaluru, India*
+### Full Stack Web Development Intern · Brainwave Matrix Solution
+*Noida, India*
 
-Full-stack product engineer on the data platform team. Responsible for the development and operation of internal ML pipelines, data APIs, and the self-serve analytics platform used by 200+ internal stakeholders.
+End-to-end development and deployment of a production-ready MERN application, with ownership of API design, database optimisation, and CI/CD pipeline configuration.
 
-- Delivered Stratum, the company's unified feature store platform, reducing model iteration time by 3×
-- Built high-throughput data ingestion pipelines processing 500M+ events per day using Kafka and Flink
-- Migrated legacy monolithic APIs to a microservices architecture, improving deploy frequency from weekly to daily
-- Contributed ML pipeline tooling that was subsequently open-sourced and adopted by external teams
+- Engineered and deployed a full-stack MERN application achieving 20% faster page load (4.2s → 3.4s) and 15% increase in user session duration
+- Implemented RESTful APIs with Express.js and optimised MongoDB queries, reducing average API response time by 30%
+- Configured GitHub Actions CI/CD pipeline automating build, test, and deployment workflows — eliminating manual deployment effort across 3 sprint cycles
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="120" valign="top">
-<strong>2018 — 2020</strong>
-</td>
-<td valign="top">
-
-### Software Engineer · Enterprise Software Firm
-*Hyderabad, India*
-
-Backend engineer on the platform and integrations team. Built RESTful APIs, designed database schemas, and contributed to the core product's customer-facing features.
-
-- Developed and maintained a suite of third-party integration connectors used by 500+ enterprise clients
-- Designed database optimisation strategies that reduced query times by 70% on critical reporting paths
-- Introduced automated integration testing that cut regression detection time from days to hours
-- Mentored two junior engineers through onboarding and initial project delivery
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 </tr>
@@ -294,14 +241,12 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 
 | Recognition | Details |
 |:---|:---|
-| 🏆 AWS Community Builder | Selected as AWS Community Builder in the Cloud Infrastructure category, 2024 |
-| 🥇 Hackathon — 1st Place | Winner, National AI Hackathon — LLM-powered developer tooling track (500+ participants) |
-| 📝 Tech Author | Published 15+ in-depth engineering articles on distributed systems and ML infrastructure |
-| ⭐ Open Source | 2,000+ GitHub stars across maintained open source projects |
-| 🎤 Conference Speaker | Speaker at PyCon India and KubeCon Asia on ML inference and platform engineering |
-| 🎓 Academic Excellence | Graduated with Distinction (9.1 CGPA) — Computer Science Engineering |
-| 🏅 Performance Award | Engineering Excellence Award — two consecutive years at previous employer |
-| 🔍 Patent | Co-inventor on provisional patent for semantic caching methodology in LLM gateways |
+| 🏆 Hackathon Finalist | VibeSate25 Hackathon Finalist — GGSIPU |
+| 🥇 National Ranking | Ranked in Top 50 nationally from 200,000+ registrations |
+| 🎯 EY Techathon 2025 | Shortlisted for EY Techathon 2025 |
+| 🎨 Adobe Hackathon | Adobe India National Hackathon — successful project submission |
+| 🎓 Academic Standing | CGPA 8.54/10 — B.Tech ECE, BPIT GGSIPU Delhi |
+| 💻 Competitive Programming | 150+ LeetCode problems solved · 10+ Codeforces contests |
 
 </div>
 
@@ -311,38 +256,28 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 
 <p align="center"><strong>Amazon Web Services</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials%20(Oct%202025)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <br/>
 
-<p align="center"><strong>Oracle</strong></p>
+<p align="center"><strong>Google Cloud</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Java%20SE%2017%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Data%20Analytics%20Certificate%20(Sept%202025)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 <br/>
 
-<p align="center"><strong>NPTEL</strong></p>
+<p align="center"><strong>IBM</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20(Elite%20%2B%20Gold)-7C3AED?style=for-the-badge&logo=coursera&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20for%20Engineers%20(Elite)-7C3AED?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals%20(July%202025)-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <br/>
 
-<p align="center"><strong>Cisco</strong></p>
+<p align="center"><strong>Infosys</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco-DevNet%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infosys-Angular%20Development%20(May%202025)-007CC3?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ---
@@ -350,21 +285,21 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1800%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/somil27" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://geeksforgeeks.org/user/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-5★%20Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://geeksforgeeks.org/user/somil27" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 <p align="center">
-  <a href="https://hackerrank.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-6★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  <a href="https://hackerrank.com/somil27" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://codechef.com/users/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5★%20%282100%2B%20Rating%29-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://codeforces.com/profile/somil27" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-10%2B%20Contests%20Participated-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
@@ -373,13 +308,13 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somil27&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&sideNums=A78BFA&currStreakNum=A78BFA&dates=6b7280" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somil27&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&sideNums=A78BFA&currStreakNum=A78BFA&dates=6b7280" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9d1d9&langs_count=10&hide=html,css,scss,shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9d1d9&langs_count=10&hide=html,css,scss,shell" />
 </p>
 
 ---
@@ -387,7 +322,7 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=somil27&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
@@ -395,7 +330,7 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=6D28D9&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somil27&theme=react-dark&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=6D28D9&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
 
 ---
@@ -404,9 +339,9 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somil27/somil27/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somil27/somil27/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/somil27/somil27/output/github-snake-dark.svg" />
   </picture>
 </p>
 
@@ -415,27 +350,27 @@ Backend engineer on the platform and integrations team. Built RESTful APIs, desi
 ## ◈ Current Focus
 
 ```yaml
-# Q3 2025 Engineering Focus
+# 2025 Focus Areas
 learning:
-  - Advanced CUDA kernels and GPU memory optimisation
-  - Formal verification methods for distributed protocol correctness
-  - Rust async runtime internals
+  - Advanced System Design patterns for scalable web applications
+  - TypeScript deep dive — generics, decorators, and type utilities
+  - Docker & Kubernetes for container orchestration
 
 building:
-  - Open source LLM observability SDK (beta launching Q3 2025)
-  - Multi-agent orchestration framework with fault-tolerant task graphs
-  - Vector index benchmarking suite for production workloads
+  - Full-stack projects with real-world use cases for portfolio
+  - ML-powered web apps combining FastAPI + React
+  - Open source contributions to MERN ecosystem tools
 
 exploring:
-  - Speculative decoding and continuous batching for inference efficiency
-  - Mixture-of-Experts architectures and routing strategies
-  - eBPF for kernel-level performance profiling
+  - LLM APIs and AI-augmented developer tooling
+  - PostgreSQL advanced querying and indexing strategies
+  - WebRTC optimisation for low-latency communication
 
 open_to:
-  - Staff / Principal Engineer opportunities (remote-first)
-  - Technical Advisory roles in AI infrastructure startups
-  - Open source collaboration on developer tooling and ML systems
-  - Conference talks and engineering writing partnerships
+  - SDE Internships (Full Stack / Backend / Frontend)
+  - Open source collaboration on web and ML projects
+  - Hackathon teams building impactful products
+  - Part-time freelance web development projects
 ```
 
 ---
@@ -443,27 +378,27 @@ open_to:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:you@email.com">
-    <img src="https://img.shields.io/badge/Gmail-you%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:somilshankargupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-somilshankargupta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-yourusername-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/somil-shankar-gupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-somil--shankar--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/somil27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-somil27-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://yourportfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-yourportfolio.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://thesomilverse.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-thesomilverse.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"The best systems are not built by accident — they are the product of intentional design, rigorous engineering, and a relentless commitment to craft."</em>
+  <em>"Good code is not written overnight — it is refined through curiosity, consistency, and a genuine love for building things that work."</em>
 </p>
 
 <p align="center">
