@@ -1,0 +1,70 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Somil Shankar Gupta – GitHub Profile Banner</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a14"/>
+      <stop offset="40%" stop-color="#12072a"/>
+      <stop offset="70%" stop-color="#1e0845"/>
+      <stop offset="100%" stop-color="#0a0a14"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow2" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E9D5FF"/>
+      <stop offset="50%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#A78BFA" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#7C3AED" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="blur2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <ellipse cx="180" cy="100" rx="220" ry="160" fill="url(#glow1)" filter="url(#blur1)"/>
+  <ellipse cx="720" cy="180" rx="200" ry="140" fill="url(#glow2)" filter="url(#blur2)"/>
+  <ellipse cx="450" cy="50" rx="150" ry="80" fill="#5B21B6" fill-opacity="0.12" filter="url(#blur2)"/>
+
+  <circle cx="60" cy="40" r="1.5" fill="#A78BFA" fill-opacity="0.7"/>
+  <circle cx="120" cy="25" r="1" fill="#C4B5FD" fill-opacity="0.5"/>
+  <circle cx="200" cy="55" r="1.5" fill="#7C3AED" fill-opacity="0.6"/>
+  <circle cx="310" cy="20" r="1" fill="#A78BFA" fill-opacity="0.4"/>
+  <circle cx="440" cy="35" r="2" fill="#C4B5FD" fill-opacity="0.3"/>
+  <circle cx="560" cy="15" r="1" fill="#A78BFA" fill-opacity="0.5"/>
+  <circle cx="650" cy="45" r="1.5" fill="#7C3AED" fill-opacity="0.6"/>
+  <circle cx="760" cy="22" r="1" fill="#C4B5FD" fill-opacity="0.4"/>
+  <circle cx="840" cy="50" r="1.5" fill="#A78BFA" fill-opacity="0.5"/>
+  <circle cx="880" cy="30" r="1" fill="#7C3AED" fill-opacity="0.3"/>
+  <circle cx="80" cy="230" r="1" fill="#A78BFA" fill-opacity="0.3"/>
+  <circle cx="160" cy="250" r="1.5" fill="#C4B5FD" fill-opacity="0.4"/>
+  <circle cx="380" cy="258" r="1" fill="#7C3AED" fill-opacity="0.3"/>
+  <circle cx="720" cy="245" r="1.5" fill="#A78BFA" fill-opacity="0.4"/>
+  <circle cx="820" cy="255" r="1" fill="#C4B5FD" fill-opacity="0.3"/>
+
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.6"/>
+
+  <text x="450" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle" fill="url(#textGrad)" letter-spacing="1">Somil Shankar Gupta</text>
+
+  <rect x="100" y="148" width="700" height="1" fill="url(#lineGrad)"/>
+
+  <text x="450" y="178" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#8B5CF6" letter-spacing="3">FULL STACK DEVELOPER  ·  MERN  ·  AI / ML ENTHUSIAST</text>
+
+  <text x="450" y="212" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" text-anchor="middle" fill="#6D28D9" fill-opacity="0.8" letter-spacing="2">BPIT GGSIPU  ·  NEW DELHI  ·  INDIA</text>
+
+  <line x1="0" y1="279" x2="900" y2="279" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.4"/>
+</svg>
