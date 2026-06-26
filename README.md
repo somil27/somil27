@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Somil%20Shankar%20Gupta&fontColor=A78BFA&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML%20Enthusiast&descColor=8B5CF6&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1e0a3c,60:3b0764,100:0d0d1a&height=280&section=header&text=Somil%20Shankar%20Gupta&fontColor=C4B5FD&fontSize=52&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%2FML%20Enthusiast&descColor=7C3AED&descSize=20&descAlignY=62&descAlign=50&stroke=7C3AED&strokeWidth=1&animation=fadeIn" width="100%" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -324,7 +325,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somil27&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=somil27&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" />
 </p>
 
 ---
@@ -399,6 +400,6 @@ open_to:
   <em>"Good code is not written overnight — it is refined through curiosity, consistency, and a genuine love for building things that work."</em>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1e0a3c,60:3b0764,100:0d0d1a&height=140&section=footer&fontColor=C4B5FD&animation=fadeIn" width="100%" />
+</div>
