@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1e0a3c,60:3b0764,100:0d0d1a&height=280&section=header&text=Somil%20Shankar%20Gupta&fontColor=C4B5FD&fontSize=52&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%2FML%20Enthusiast&descColor=7C3AED&descSize=20&descAlignY=62&descAlign=50&stroke=7C3AED&strokeWidth=1&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/somil27/somil27/main/header.svg" alt="Somil Shankar Gupta – Full Stack Developer" width="100%" />
 </div>
 
 <p align="center">
@@ -396,10 +396,6 @@ open_to:
 
 ---
 
-<p align="center">
-  <em>"Good code is not written overnight — it is refined through curiosity, consistency, and a genuine love for building things that work."</em>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1e0a3c,60:3b0764,100:0d0d1a&height=140&section=footer&fontColor=C4B5FD&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/somil27/somil27/main/footer.svg" alt="Footer" width="100%" />
 </div>
