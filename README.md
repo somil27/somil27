@@ -1,7 +1,4 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/somil27/somil27/main/header.svg" alt="Somil Shankar Gupta – Full Stack Developer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,50:2d0a6b,100:0d0d1a&section=header&text=Somil%20Shankar%20Gupta&fontSize=52&fontColor=C4B5FD&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%2FML%20Enthusiast&descFontColor=8B5CF6&descFontSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -396,6 +393,6 @@ open_to:
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/somil27/somil27/main/footer.svg" alt="Footer" width="100%" />
-</div>
+<p align="center"><em>&quot;Good code is not written overnight — it is refined through curiosity, consistency, and a genuine love for building things that work.&quot;</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d0d1a,50:2d0a6b,100:0d0d1a&section=footer&animation=fadeIn" width="100%" />
