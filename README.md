@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Somil%20Shankar%20Gupta&fontColor=A78BFA&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML%20Enthusiast&descColor=8B5CF6&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;SDE+Intern+%40+Kogniti+Minds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%2F+ML+Enthusiast;Real-Time+Systems+Builder;SDE+Intern+%40+Kogniti+Minds" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GGSIPU-CGPA%3A%208.54%2F10-6D28D9?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/BPIT%20GGSIPU-4th%20Year%20%7C%20New%20Delhi-6D28D9?style=flat-square&logo=academia&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/📍-New%20Delhi%2C%20India-4F46E5?style=flat-square&logoColor=white" />
 </p>
@@ -35,12 +35,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=somil27&label=Profile+Views&color=7C3AED&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=somil27&label=Profile+Views&color=7C3AED&style=flat-square&abbreviated=true&base=3000" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/somil27?label=Followers&style=flat-square&color=6D28D9&labelColor=1a1a2e" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/somil27?label=Stars&style=flat-square&color=4F46E5&labelColor=1a1a2e" />
 </p>
+
+<br/>
 
 ---
 
@@ -124,7 +126,7 @@ A real-time stock trading platform engineered to handle high-concurrency trade e
 | **Performance** | WebSocket latency < 100ms · order execution speed improved by 40% |
 | **Security** | JWT authentication · encrypted transaction processing · $100K+ simulated volume |
 | **Impact** | 99.9% uptime · optimised MongoDB queries for high-throughput workloads |
-| **Repository** | [github.com/somil27/stock-trading-platform](https://github.com/somil27) |
+| **Repository** | [github.com/somil27](https://github.com/somil27) |
 
 </div>
 
@@ -148,7 +150,7 @@ A full-featured video conferencing application supporting multiple concurrent HD
 | **Performance** | < 150ms latency · 2.5 Mbps/user via adaptive bitrate streaming |
 | **Security** | Peer-to-peer encrypted streams · session-scoped socket rooms |
 | **Impact** | 60% reduction in server load · modular component architecture |
-| **Repository** | [github.com/somil27/streamsync](https://github.com/somil27) |
+| **Repository** | [github.com/somil27](https://github.com/somil27) |
 
 </div>
 
@@ -172,7 +174,7 @@ A production-deployed ML platform that matches candidates to job roles using NLP
 | **Performance** | High-relevance role matches via skill alignment and confidence signals |
 | **Security** | Input validation, error handling, sanitised API contracts |
 | **Impact** | End-to-end ML pipeline from feature extraction to ranked recommendation delivery |
-| **Repository** | [Deployed Application](https://github.com/somil27) |
+| **Repository** | [github.com/somil27](https://github.com/somil27) |
 
 </div>
 
@@ -245,7 +247,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
 | 🥇 National Ranking | Ranked in Top 50 nationally from 200,000+ registrations |
 | 🎯 EY Techathon 2025 | Shortlisted for EY Techathon 2025 |
 | 🎨 Adobe Hackathon | Adobe India National Hackathon — successful project submission |
-| 🎓 Academic Standing | CGPA 8.54/10 — B.Tech ECE, BPIT GGSIPU Delhi |
+| 🎓 Academic Standing | B.Tech ECE, BPIT GGSIPU Delhi (2023 – 2027) |
 | 💻 Competitive Programming | 150+ LeetCode problems solved · 10+ Codeforces contests |
 
 </div>
@@ -256,28 +258,28 @@ End-to-end development and deployment of a production-ready MERN application, wi
 
 <p align="center"><strong>Amazon Web Services</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials%20(Oct%202025)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials%20%7C%20Oct%202025-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <br/>
 
 <p align="center"><strong>Google Cloud</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GCP-Data%20Analytics%20Certificate%20(Sept%202025)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Data%20Analytics%20Certificate%20%7C%20Sept%202025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 <br/>
 
 <p align="center"><strong>IBM</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals%20(July%202025)-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals%20%7C%20July%202025-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <br/>
 
 <p align="center"><strong>Infosys</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Infosys-Angular%20Development%20(May%202025)-007CC3?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infosys-Angular%20Development%20%7C%20May%202025-007CC3?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ---
@@ -299,7 +301,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/somil27" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-10%2B%20Contests%20Participated-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-10%2B%20Contests-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
@@ -310,11 +312,11 @@ End-to-end development and deployment of a production-ready MERN application, wi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somil27&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somil27&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&sideNums=A78BFA&currStreakNum=A78BFA&dates=6b7280" height="180" />
+  <img src="https://streak-stats.demolab.com?user=somil27&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&sideNums=A78BFA&currStreakNum=A78BFA&dates=6b7280" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9d1d9&langs_count=10&hide=html,css,scss,shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9d1d9&langs_count=10" />
 </p>
 
 ---
@@ -322,7 +324,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somil27&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=somil27&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
 ---
@@ -330,7 +332,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somil27&theme=react-dark&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=6D28D9&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somil27&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=A78BFA&area=true&area_color=2D1B69&hide_border=true&custom_title=Somil%27s%20Contribution%20Graph&radius=6" width="95%" />
 </p>
 
 ---
@@ -338,11 +340,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
 ## ◈ Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somil27/somil27/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somil27/somil27/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/somil27/somil27/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="95%" />
 </p>
 
 ---
@@ -350,7 +348,7 @@ End-to-end development and deployment of a production-ready MERN application, wi
 ## ◈ Current Focus
 
 ```yaml
-# 2025 Focus Areas
+# 2025–2026 Focus Areas
 learning:
   - Advanced System Design patterns for scalable web applications
   - TypeScript deep dive — generics, decorators, and type utilities
